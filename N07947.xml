@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:010142_0000_0F7D1C4500478880"/>
-            <pb facs="tcp:010142_0001_0F7D1C45CFBE49E8"/>
+            <pb facs="unknown:010142_0000_0F7D1C4500478880"/>
+            <pb facs="unknown:010142_0001_0F7D1C45CFBE49E8"/>
             <p>A Plain DISCOURSE FOR Little Children. With a recommendatory PREFACE By the Reverend Mr. <hi>T. JONES,</hi> Chaplain of St. SAVIOUR, SOUTHWARK.</p>
             <q>
                <p>My little Children, theſe Things write I unto you.</p>
@@ -124,11 +124,12 @@
             </p>
          </div>
          <div type="preface">
-            <pb facs="tcp:010142_0001_0F7D1C45CFBE49E8" rendition="simple:additions"/>
+            <pb facs="unknown:010142_0001_0F7D1C45CFBE49E8"
+                rendition="simple:additions"/>
             <head>The PREFACE.</head>
             <p>AMONG the various Treatiſes that have been publiſhed for the Improvement and Aſſiſtance of Chriſtians of different Claſſes, I have often lamented the want of ſome truly evangelical Manuel to put into the Hands of the Lambs of the Flock; who, as they are the Purchaſe of EMANUEL's Blood, and as their tender Minds ſtand in the greateſt need of Cultivation, are certainly entituled to all the Helps we can furniſh them with — As one (and I eſteem it an eſſential) Part of my Duty, requires me to ſpend ſome Time, every Week, with Children of different Ages and Capacities; I have had great Opportunities of obſerving in what Manner, and by what Methods, divine Truths may be conveyed to their Minds ſo as to give them ſome Concern about their eternal State: The Reader will pleaſe to obſerve that I ſpeak here of human Methods only, which it is our Duty to uſe looking to the Fountain of Life for a Bleſſing.</p>
             <p>I am convinced from my own Obſervation, that thoſe Methods under GOD, are the moſt likely to anſwer the ſalutary Purpoſes above mentioned, which aim not only at informing and ſettling the Judgment of young Perſons, but alſo at affecting their Hearts, and infuſing into them a Deſire of experiencing thoſe Comforts, their Judgment is informed true Religion will produce. In this main Point, viz. The affecting the Hearts of Children, all the Pieces calculated for their Inſtruction, I have hitherto met with, are very defective. The many Catechitical Tracts
-<pb n="iv" facs="tcp:010142_0002_0F7D1C4661E92ED0"/>
+<pb n="iv" facs="unknown:010142_0002_0F7D1C4661E92ED0"/>
 publiſhed by Divines of our own Church, however uſeful to thoſe of riper Years, and maturer Judgments, are but very few of them ſuited to the Capacities of Children; which all who have the Care of Youth muſt obſerve, can<g ref="char:EOLhyphen"/>not be otherwiſe inſtructed than by <hi>Precept upon Precept, and Line upon Line, here a little and there a little.</hi> The few that are profeſſedly wrote for the Edification of Young Ones, if they ſucceed in the firſt Part, viz. in ſtoring the Mind with a Set of Principles, are very deficient in the latter, viz. in affecting their Hearts. For, however <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>trange it may ſeem to ſome, yet Experience ſhews us, that grown Perſons, as well as Children, may have very ortho<g ref="char:EOLhyphen"/>dox Principles or Notions in their Heads, and yet at the ſame Time be deſtitute of the leaſt Spark of Grace in their Hearts. To kindle this divine Flame in young Breaſts, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -161,7 +162,7 @@ publiſhed by Divines of our own Church, however uſeful to thoſe of riper Year
                   <desc>•</desc>
                </gap> ſince no one ſeemed ſo fitted for ſuch a Taſk as himſelf.</p>
             <p>
-               <pb n="v" facs="tcp:010142_0002_0F7D1C4661E92ED0"/>Mr. <hi>JANEWAY's Token for Children</hi> is indeed a very rich Treaſure for Chriſtian Jewels; but I humbly ap<g ref="char:EOLhyphen"/>prehend it would have been ſtill more uſeful, had an <hi>Ad<g ref="char:EOLhyphen"/>dreſs to Children,</hi> been prefixed to it, or an <hi>Obſerva<g ref="char:EOLhyphen"/>tion</hi> added at the End of each Hiſtory (like the Moral in <hi>Aeſop's</hi> Fables) tending to convince them that they likewiſe muſt be Partakers of the ineſtimable Bleſſings there deſcri<g ref="char:EOLhyphen"/>bed, as ever they would ſee the Face of GOD.</p>
+               <pb n="v" facs="unknown:010142_0002_0F7D1C4661E92ED0"/>Mr. <hi>JANEWAY's Token for Children</hi> is indeed a very rich Treaſure for Chriſtian Jewels; but I humbly ap<g ref="char:EOLhyphen"/>prehend it would have been ſtill more uſeful, had an <hi>Ad<g ref="char:EOLhyphen"/>dreſs to Children,</hi> been prefixed to it, or an <hi>Obſerva<g ref="char:EOLhyphen"/>tion</hi> added at the End of each Hiſtory (like the Moral in <hi>Aeſop's</hi> Fables) tending to convince them that they likewiſe muſt be Partakers of the ineſtimable Bleſſings there deſcri<g ref="char:EOLhyphen"/>bed, as ever they would ſee the Face of GOD.</p>
             <p>I ſay nothing of our excellent <hi>Church Catechiſm,</hi> nor of that publiſhed by the <hi>Aſſembly,</hi> (both of them excellent Bodies of Divinity) as the generality will agree with me, that they are not ſo properly <hi>Milk for Babes,</hi> as <hi>Meat for Men.</hi>
             </p>
             <p>Such a Method of Inſtruction as I have deſcribed, having been ſo long wanting, I cannot but congratulate my Chriſtian Brethren, on the Publication of the following <hi>DISCOURSE.</hi> I have peruſed it carefully, and think it admirably ſuited to the great Ends I have mentioned. The Author (whom I am proud to call my Friend) has happily diſcovered the Art of conveying the moſt intereſting and important Truth in the eaſieſt plaineſt and moſt engaging manner. His Stile is familiar, yet affecting; his Deſcriptions juſt and lively, his Inſtructions weighty, yet ſo perſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -172,7 +173,7 @@ publiſhed by Divines of our own Church, however uſeful to thoſe of riper Year
                   <desc>•</desc>
                </gap>eady to do for your's alſo.</p>
             <p>
-               <pb n="vi" facs="tcp:010142_0003_0F7D1C495CEC1938"/>The Doctrine of <hi>Original Sin,</hi> of <hi>Juſtification by Faith,</hi> of <hi>imputed Righteouſneſs,</hi> and of <hi>Sanctifica<g ref="char:EOLhyphen"/>tion by the Holy Spirit;</hi> which diſtinguiſh the <hi>Church of England,</hi> from that of <hi>Rome,</hi> are fully, yet plainly deliveered in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="vi" facs="unknown:010142_0003_0F7D1C495CEC1938"/>The Doctrine of <hi>Original Sin,</hi> of <hi>Juſtification by Faith,</hi> of <hi>imputed Righteouſneſs,</hi> and of <hi>Sanctifica<g ref="char:EOLhyphen"/>tion by the Holy Spirit;</hi> which diſtinguiſh the <hi>Church of England,</hi> from that of <hi>Rome,</hi> are fully, yet plainly deliveered in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>is little <hi>TRACT.</hi>
             </p>
@@ -191,7 +192,8 @@ publiſhed by Divines of our own Church, however uſeful to thoſe of riper Year
             </closer>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:010142_0003_0F7D1C495CEC1938" rendition="simple:additions"/>
+            <pb facs="unknown:010142_0003_0F7D1C495CEC1938"
+                rendition="simple:additions"/>
             <head>The Author's <hi>Addreſs</hi> to the <hi>Reader.</hi>
             </head>
             <p>OUR dear Saviour ſaith of himſelf, <hi>I am</hi> the WAY — <hi>no Man cometh unto the Father but by me.</hi> An<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -226,7 +228,7 @@ publiſhed by Divines of our own Church, however uſeful to thoſe of riper Year
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:010142_0004_0F7D1C496507FEE8"/>
+            <pb facs="unknown:010142_0004_0F7D1C496507FEE8"/>
             <head>A plain Diſcourſe FOR Little Children.</head>
             <argument>
                <p>In the 18th Chapter of St. <hi>Luke,</hi> and the 16th Verſe<g ref="char:punc">▪</g> JESUS ſaith, <hi>Suffer little Children to come unto me.</hi>
@@ -255,13 +257,13 @@ publiſhed by Divines of our own Church, however uſeful to thoſe of riper Year
                </gap>d he ſtill ſays, <hi>Suffer little Children to come unto me.</hi>
             </p>
             <p>
-               <pb n="9" facs="tcp:010142_0004_0F7D1C496507FEE8"/>But it may be, dear Children, you do not know who Jeſus Chriſt is: Tho' you read of Jeſus Chriſt in your Teſtaments, perhaps you have not conſidered, or thought much about Jeſus Chriſt: Therefore you do not know him. You do nor love him: You never go to him. You never call upon him: You never aſk Je<g ref="char:EOLhyphen"/>ſus Chriſt to bleſs you; nor you never thank him, though he loves you ſo much, ſo very much; yes indeed, he does.</p>
+               <pb n="9" facs="unknown:010142_0004_0F7D1C496507FEE8"/>But it may be, dear Children, you do not know who Jeſus Chriſt is: Tho' you read of Jeſus Chriſt in your Teſtaments, perhaps you have not conſidered, or thought much about Jeſus Chriſt: Therefore you do not know him. You do nor love him: You never go to him. You never call upon him: You never aſk Je<g ref="char:EOLhyphen"/>ſus Chriſt to bleſs you; nor you never thank him, though he loves you ſo much, ſo very much; yes indeed, he does.</p>
             <p>O 'tis a ſad Thing for little Children not to know, not to love Jeſus Chriſt. Don't you remember what the Apolſte tells you in 1 <hi>Cor.</hi> Chap. 16. ver. 22. <hi>If any one love not the Lord Jeſus Chriſt let him be accurſed.</hi> O 'tis a thou<g ref="char:EOLhyphen"/>ſand Pities but that you ſhould be told who Je<g ref="char:EOLhyphen"/>ſus Chriſt is, and how much he loves little Chil<g ref="char:EOLhyphen"/>dren, what he has done for them, and how many good Things he every Day gives them. Surely if we conſidered this, you would love him. Are you w<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ling then to hear of Jeſus Chriſt? Do you deſire to be told who he is, and what great Things Jeſus Chriſt hath done for little Children? Should you not be glad to know how you muſt go to him? For he ſays, <hi>Suffer little Children to come unto me.</hi>
             </p>
             <p>Why then, for the Sake of dear little Chil<g ref="char:EOLhyphen"/>dren, and becauſe I love them, and would wiſh them to know and love Jeſus Chriſt, that they may be happy: I have made this little Diſcourſe
-<pb n="10" facs="tcp:010142_0005_0F7D1C4A2B114C90"/>
+<pb n="10" facs="unknown:010142_0005_0F7D1C4A2B114C90"/>
 on purpoſe to tell de<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> Children, who Jeſus Chriſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -285,7 +287,7 @@ on purpoſe to tell de<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <p>You are told who Jeſus Chriſt is.</p>
                </argument>
                <p>DO you aſk who Jeſus Chriſt is? I will tell you: He is GOD over all, bleſſed for
-<pb n="11" facs="tcp:010142_0005_0F7D1C4A2B114C90"/>
+<pb n="11" facs="unknown:010142_0005_0F7D1C4A2B114C90"/>
 evermore. He is the King of Kings, and Lord of Lord<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Before you was born into the World, yea, before ever this World was made, Jeſus Chriſt lived beyond the Clouds; he dwelt above the ſtarry Sky in the higheſt Heavens, which he made by his Power. He made the Earth alſo. All Things were made by him and without him was not any Thing made that was made, as you read in St. <hi>John,</hi> 
@@ -315,7 +317,7 @@ evermore. He is the King of Kings, and Lord of Lord<gap reason="illegible" resp=
                   <hi>Geneſis</hi> chap. 1, ver 26. that God created Man in his own I<g ref="char:EOLhyphen"/>mage; and placed him in Paradiſe; and how <hi>Adam,</hi> who is the Father of us all, the firſt Man, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hat God made, how good, how holy, how hap<g ref="char:EOLhyphen"/>py
-<pb n="12" facs="tcp:010142_0006_0F7D1C4AED82B608"/>
+<pb n="12" facs="unknown:010142_0006_0F7D1C4AED82B608"/>
 he was, until that wicked One, the Devil, who is full of Spite and Malice againſt Man, came to him, and bid him not believe God, nor be obedient to do what God had told him; and how he hearkened to the Voice of the Devil, and ſo became proud; and inſtead of loving and fearing the Lord, and brok<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> God's Com<g ref="char:EOLhyphen"/>mand; he did what God had told h<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -348,7 +350,7 @@ he was, until that wicked One, the Devil, who is full of Spite and Malice again�
                   </gap>ere you and I now live.</p>
                <p>For when <hi>Adam</hi> ſinned againſt God, and loſt the Heaven of God's Love and Favour, all his Children ſinned in him; ſo that you and I, dear Children, are become Fellow-Sinners and Fel<g ref="char:EOLhyphen"/>low Sufferers, by <hi>Adam</hi>'s Fall and Diſobedience, ſo you read by the Offence of One, we are all made Sinners, and Death entered into the
 <pb n="13"
-                      facs="tcp:010142_0006_0F7D1C4AED82B608"
+                      facs="unknown:010142_0006_0F7D1C4AED82B608"
                       rendition="simple:additions"/>
 World by Sin as God's Apoſtle tells you in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -363,7 +365,7 @@ World by Sin as God's Apoſtle tells you in the <gap reason="illegible" resp="#P
                <p>O what a ſad Thing it was for <hi>Adam</hi> to Sin againſt God! O what a miſerable Thing it is that dear little Children are now become Sin<g ref="char:EOLhyphen"/>ners! that they ſhould Quarrel and Fight with one another; be Angry, and tell lies, and take God's Name in vain, and not love God, nor fear God, nor pray to God. O dear! What a ſad, what an affecting Thing is this to think of!</p>
                <p>But then, when you come to die: For my dear Children you are to live but a little, little while longer here. O, alas! this is very dread<g ref="char:EOLhyphen"/>ful! to ſhut your Eyes never, never to open them any more! And that dear little Body muſt be put into the cold, dark Grave, &amp; Dirt thrown upon it, and the Worms will eat it up.</p>
                <p>But then, O more dreadful ſtill! You have, dear Children, Souls that can never die, but will live forever and ever. Theſe after your Bodies
-<pb n="14" facs="tcp:010142_0007_0F7D1C4BAC420C30"/>
+<pb n="14" facs="unknown:010142_0007_0F7D1C4BAC420C30"/>
 die, muſt appear before the great God the Judge of all men, who will then tell you of, and will judge you for all your Sins, for every Idle wick<g ref="char:EOLhyphen"/>ed Word, and every evil, ſinful Thought; and then if you have no Friend to take your Part, no dear Saviour to beg for you! O moſt dread<g ref="char:EOLhyphen"/>ful of all!</p>
                <p>O! methinks I tremble to tell you what Je<g ref="char:EOLhyphen"/>ſus Chriſt ſays will bec<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -380,7 +382,7 @@ die, muſt appear before the great God the Judge of all men, who will then tell 
                <p>O, yes, I think you ſay: O if any Body would ſave me from being naughty, and from being the <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>vil's Child, ſave me from going to
-<pb n="15" facs="tcp:010142_0007_0F7D1C4BAC420C30"/>
+<pb n="15" facs="unknown:010142_0007_0F7D1C4BAC420C30"/>
 Hell, I would, indeed I would love him. Would you ſo?</p>
                <p>O, but ſuppoſe I was to tell you of one, who would do a great deal more than all this, even make you God Almighty's Child, and open the Door of Heaven to you, that when you come to die, you might be comfortable and glad, yes, and before you die, you might live holy, happy and joyful; and after Death find all Joy and Pleaſure, and Comfort and Delight, for ever and ever.</p>
                <p>Now would not this make your dear little Hearts glad within you? Now would it not? Yes, ſurely, it would. But O, where ſhall we find any one ſo full of Love and Goodneſs! No one is, but Jeſus Chriſt: None but he is able to do this. And be glad, little Children, to hear what our <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -393,18 +395,18 @@ Hell, I would, indeed I would love him. Would you ſo?</p>
                   <p>You are told how Jeſus Chriſt loved the Children of Men, and pitied poor Sinners, and became their Saviour; and what Pains and Sorrows our dear Saviour went through, to ſave his dear Children from Hell, and to bring them to Heaven.</p>
                </argument>
                <p>O Methinks, you long to know. You are eager to hear what Jeſus Chriſt did, and
-<pb n="16" facs="tcp:010142_0008_0F7D1C4C65F02C68"/>
+<pb n="16" facs="unknown:010142_0008_0F7D1C4C65F02C68"/>
 what Way he takes to ſave and make happy his dear Children.</p>
                <p>You know I told you before, that we are all, of us become ſo unlike God, by Reaſon of Sin, that we are unfit to go to God and Heaven. Well then, Jeſus Chriſt came down from Hea<g ref="char:EOLhyphen"/>ven to Earth, to fetch us from the Earth to Heaven.</p>
                <p>O, what Love is this! as we read in God's Book, 2 Epiſt. Cor. chap. 8. ver. 9. of <hi>the Grace of our Lord Jeſus Chriſt, who, tho' he was rich, yet for your Sake became poor, that ye through his Poverty might be made rich.</hi> How poor did Jeſus become? Why he that was Lord of all became a poor deſpiſed out-caſt Babe. He took our Nature upon him, and was born into this World.</p>
                <p>O he looked down from the Heaven of his Glory; he ſaw how Sin and Wickedneſs had ruined the dear Children of Men, and his loving Heart was ſet upon them, and he would come to ſave them; therefore he was born into this World, under all the Meanneſs, Poverty &amp; Diſ<g ref="char:EOLhyphen"/>grace which our Sins had deſerved. His Pa<g ref="char:EOLhyphen"/>rents were poor and mean: His Birth, inſtead of a Palace was a Stable: For a Cradle, a Man<g ref="char:EOLhyphen"/>ger, where Oxen fed, was the Place where the Lord of Life and Glory was firſt laid. O what Love, what Humility is this!</p>
                <p>
-                  <pb n="17" facs="tcp:010142_0008_0F7D1C4C65F02C68"/>Now all this is to ſhew us what ſhame is due to Sin. Think of this dear little Children. See the Shame of Sin. See how low our Savi<g ref="char:EOLhyphen"/>our ſtoop'd, how poor he became. Have you any Reaſon to be proud, and to love, and de<g ref="char:EOLhyphen"/>ſire the great and grand Things of this World? O learn of your Saviour to deſpiſe them.</p>
+                  <pb n="17" facs="unknown:010142_0008_0F7D1C4C65F02C68"/>Now all this is to ſhew us what ſhame is due to Sin. Think of this dear little Children. See the Shame of Sin. See how low our Savi<g ref="char:EOLhyphen"/>our ſtoop'd, how poor he became. Have you any Reaſon to be proud, and to love, and de<g ref="char:EOLhyphen"/>ſire the great and grand Things of this World? O learn of your Saviour to deſpiſe them.</p>
                <p>Well, thus our dear Lord appeared in the Fleſh, in our Nature, in our Stead. Thus he became a Child for the Sake of dear little Chil<g ref="char:EOLhyphen"/>dren, that he might be their dear Brother and loving Saviour.</p>
                <p>For your Sakes your Saviour begins his Life with Poverty and Diſgrace; and as he grows up, his Sorrows and Sufferings increaſe with his Years. He had very few Friends that loved him. A great many Enemies that hated him. Few, very few, believed on him: He always went about doing Good: And yet he was al<g ref="char:EOLhyphen"/>ways ſuffering Evil from the Children of Men.</p>
                <p>He indeed was a Man of Sorrows, and ac<g ref="char:EOLhyphen"/>quainted with Griefs, all his Life for your Sakes: All that he bore, all that he ſuffered, was in Love to his dear Children. His Life was a Life of Holineſs and Love; and yet wicked Men agreed to take away his dear Life, to ſpill his precious Blood, and to murder this dear Savi<g ref="char:EOLhyphen"/>our of ours.</p>
                <p>O you may read how he is preparing for the Hour, the diſmal Hour of his Death and Suffer<g ref="char:EOLhyphen"/>ings,
-<pb n="18" facs="tcp:010142_0009_0F7D1C4D8DB64100"/>
+<pb n="18" facs="unknown:010142_0009_0F7D1C4D8DB64100"/>
 in St. <hi>Luke,</hi> chap. 22. ver. 44. ſee him in the Garden of <hi>Gethſemane,</hi> there in great Pain and Sorrow, he prayed to his Father; and what think you, my dear Children, was the Cauſe of all his Diſtreſs? O he feels the Load, he bears the Weight of all his dear Children's Sins upon him. He had no Sin of his own; but he un<g ref="char:EOLhyphen"/>dertook our Cauſe, and all our Sins were laid upon his dear and innocent Head.</p>
                <p>O this makes him groan, this makes him pray in the greateſt Agony; they cauſed him to ſweat and groan, and bleed; yea to ſweat Drops, great Drops of precious Blood out of his inno<g ref="char:EOLhyphen"/>cent Veins.</p>
                <p>O dear little Children, think of this; conſider what your loving Saviour once ſuffered for your Sins, for your Sakes, for your Souls; and this was on a dark Winter's Night, when the Air was ſharp, froſty and cold.</p>
@@ -416,13 +418,13 @@ in St. <hi>Luke,</hi> chap. 22. ver. 44. ſee him in the Garden of <hi>Gethſema
                <p>But this is not all; no ſooner were his Pray<g ref="char:EOLunhyphen"/>ers ended, but greater Sorrows, and more grie<g ref="char:EOLunhyphen"/>vous Pains are coming upon him; tho' he had gone up and down for near thirty Years, doin<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="19" facs="tcp:010142_0009_0F7D1C4D8DB64100"/>
+                  <pb n="19" facs="unknown:010142_0009_0F7D1C4D8DB64100"/>
 Good, and was always loving &amp; tender-hearted to all that came unto him: Yet O how barba<g ref="char:EOLhyphen"/>rouſly is he uſed? for a great Multitude of rude, wicked Men come with Lanthorns and Staves, to take him.</p>
                <p>O the dear, innocent Lamb! How is he de<g ref="char:EOLhyphen"/>livered up to the Anger and Fury of Men, who like Lions and Bears, drag him away to the Governor of the City, and they tied thoſe dear Hands behind him, which had been ſo often put forth to give Sight to the Blind, to cure the Sick, to give Life to the Dead, and had em<g ref="char:EOLhyphen"/>braced little Children, when he bleſſed them, and alſo been very often lifted up in Prayer to his Father, for his Enemies.</p>
                <p>Thus bound he ſtood before his Judge ſilent, tho' they laid many Things to his Charge, of which he was innocent, he ſaid nothing; O, no: He knew he appeared in our Stead; we were guilty, and for our Sins he ſuffered.</p>
                <p>But his Sufferings are not at an End yet; O no: Our Sins were laid upon him; for them he muſt bleed; for them he is willing to ſhed every Drop of his precious Blood. We were ſold, all of us, my dear little Children, as Slaves to Sin and Satan; and nothing but Blood, the Blood of Jeſus, the Blood of God, could buy our Liberty.</p>
                <p>Chriſt freely gave himſelf for us: he hath bought us with his own Blood, and redeemed
-<pb n="20" facs="tcp:010142_0010_0F7D1C4DEC189AD0"/>
+<pb n="20" facs="unknown:010142_0010_0F7D1C4DEC189AD0"/>
 us from being Enemies to God, and Slaves to Wickedneſs.</p>
                <p>O then ſee, mark the Account, which is gi<g ref="char:EOLhyphen"/>ven of our dear Saviour after he was condemn<g ref="char:EOLhyphen"/>ed to die.</p>
                <p>His cruel Enemies led him away, and they ſcourged him with Cords, till they cut deep Gaſhes on his naked Body.</p>
@@ -435,11 +437,11 @@ us from being Enemies to God, and Slaves to Wickedneſs.</p>
                   </gap>ripes and Blood, we might be healed of all the Sickneſſes of our Souls.</p>
                <p>Thus the Blood trickled down from every Part of his innocent Body; and yet this doth not ſatisfy the cruel Rage of his Enemies; for they ſpit upon him, they mocked him, and made Game of him.</p>
                <p>
-                  <pb n="21" facs="tcp:010142_0010_0F7D1C4DEC189AD0"/>O how eaſy could our dear Saviour have look<g ref="char:EOLhyphen"/>ed them dead, and frowned them into Hell in a Moment; but no, we ſee he is patient &amp; meek; he opens not his Mouth, neither doth he cry nor complain.</p>
+                  <pb n="21" facs="unknown:010142_0010_0F7D1C4DEC189AD0"/>O how eaſy could our dear Saviour have look<g ref="char:EOLhyphen"/>ed them dead, and frowned them into Hell in a Moment; but no, we ſee he is patient &amp; meek; he opens not his Mouth, neither doth he cry nor complain.</p>
                <p>O what Love, what Patience is this! never was the like ſeen before! But yet more &amp; more of his Love for Sinners is to be ſeen, and more of his Sufferings is ſtill to come.</p>
                <p>Die he muſt. He is condemned: And there<g ref="char:EOLhyphen"/>fore they drag him away. They lay his heavy Croſs upon his naked, wounded Body, which he carries till he is faint and tired. All about him were his Enemies laughing, and mocking him, until he comes in Sight of mount Calvary. Thither he goes up, and his Croſs being laid on the Ground, they ſtretch out his dear Arms wide. Thro' the Palms of his holy, tender Hands<g ref="char:punc">▪</g> and thro' his ſacred Feet, they drive large Nails, and ſo faſten him to the Croſs; and then lifted it up from the Ground. Thus the dear Lord Jeſus hangs on the accurſed Tree.</p>
                <p>Is not this enough to make your dear little Hearts ake, and cauſe you to weep and cry, to think of his Pains and Agonies? And yet, O how cruel and hard hearted are Men! They ſee him and they wag their Heads. They look on him thus, in the greateſt Pain; and they had no Pity, no Mercy on him; but they ſtill mocked, ſtill laughed at him. O the Racks
-<pb n="22" facs="tcp:010142_0011_0F7D1C4EA0BDCE30"/>
+<pb n="22" facs="unknown:010142_0011_0F7D1C4EA0BDCE30"/>
 and Tortures of his Body! O the Pains and Sorrows of his Soul, which was now made a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Offering for his dear Children's Sins.</p>
@@ -458,14 +460,14 @@ and Tortures of his Body! O the Pains and Sorrows of his Soul, which was now mad
                   </gap>red him any Comfort; no, even God his dear Fa<g ref="char:EOLhyphen"/>ther, who ſaid, <hi>This is my beloved Son, in whom I am well pleaſed,</hi> now pours forth the Fury of his Wrath, and fierceſt Anger upon him. For in his well beloved Son, he puniſhed our Sins moſt ſeverely.</p>
                <p>At laſt, behold a Soldier ſtabs a ſharp-pointed Spear into his precious Side, ſo that he ſhed his deareſt Heart's Blood for our Sins.</p>
                <p>Thus wearied out with Pain and Sorrow, and Agony, ſuch as Man never felt before, juſt be<g ref="char:EOLhyphen"/>fore he gave up the Ghoſt and died, he bowed his Head to the Earth, as much as to ſay to us
-<pb n="23" facs="tcp:010142_0011_0F7D1C4EA0BDCE30"/>
+<pb n="23" facs="unknown:010142_0011_0F7D1C4EA0BDCE30"/>
 Sinners, behold and ſee how much I love you! O was there ever Sorrow, ever Pain, ever Love <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ike mine! And with a loud Voice Jeſus cried, IT IS FINISHED! as much as tho' he had ſaid, My Sufferings are now at an End, and the Re<g ref="char:EOLhyphen"/>demption of Sinners, of all my dear Children, whom I ſo love, is now finiſhed and made an End of—and Jeſus died.</p>
                <p>And now my dear Children, you have heard of the Kindneſs and Love of our dear Saviour. Now don't you think he loves you? And are you not very glad to hear of the great Love of your only Lord and Saviour? And are you not ſorry and grieved to know how much Pain, and Agony and Sorrow Jeſus ſuffered for you, and for your Sins.</p>
                <p>O but if I was to tell you no more of Jeſus, you would ſtill have the greateſt Reaſon, to mourn and weep, to think that your only Sa<g ref="char:EOLhyphen"/>viour is dead; becauſe you could never go to him, nor receive any Bleſſings or Comforts from him.</p>
                <p>But I tell you glad Tidings of great Joy; for tho' Jeſus was dead, he is now alive again. He only lay three Days in the Grave, and then raiſed himſelf from the Dead, and appeared a<g ref="char:EOLhyphen"/>gain to comfort his ſorrowful Friends and Diſ<g ref="char:EOLhyphen"/>ciples; and ſtaid upon Earth forty Days. Then he went up to Glory, where he lives forever more
-<pb n="24" facs="tcp:010142_0012_0F7D1C53169163B8"/>
+<pb n="24" facs="unknown:010142_0012_0F7D1C53169163B8"/>
 to receive and pray for all dear Children, that come unto God by him, and in his Name.</p>
                <p>And now, whatever Bleſſings you want, if you go to Je<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -490,7 +492,7 @@ to receive and pray for all dear Children, that come unto God by him, and in his
                <p>So that if you tell Lies, if you ſay wicked Words, if you take the Lord's Name in vain, when you do any Thing you ought not to do<g ref="char:punc">▪</g> when you ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> naughty, God ſees you, God hears you. But I hope, dear Childrens Hearts are ſo
-<pb n="25" facs="tcp:010142_0012_0F7D1C53169163B8"/>
+<pb n="25" facs="unknown:010142_0012_0F7D1C53169163B8"/>
 affected with the Love of Jeſus, in dying for their Sins, which I have been telling them of, that you will be brought to hate all Sin &amp; Wick<g ref="char:EOLhyphen"/>edneſs, which put our dear Saviour to ſo much Smart and Pain, yea to Death itſelf.</p>
                <p>O, if you think of this, and have any Love for your precious Souls, you will be glad to know, very glad to know how you are to go to Jeſus! And you will go to him often, very often.</p>
                <p>You know I have already told you, that Jeſus <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -532,7 +534,7 @@ affected with the Love of Jeſus, in dying for their Sins, which I have been tel
                   </gap>hat is, I will lovingly receive him. And <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>gain, our Saviour ſaith, <hi>Matth.</hi> chap. xxi. ver.
-<pb n="26" facs="tcp:010142_0013_0F7D1C54D3579960"/>
+<pb n="26" facs="unknown:010142_0013_0F7D1C54D3579960"/>
 22. <hi>All Things, whatſoever you aſk in Prayer, be<g ref="char:EOLhyphen"/>lieving, ye ſhall receive.</hi>
                </p>
                <p>Now when you come to Jeſus, when you kneel before the Lord, What would you pray our dear Saviour to do for you? Would you aſk for Riches? A great deal o Money <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -567,7 +569,7 @@ affected with the Love of Jeſus, in dying for their Sins, which I have been tel
                   <g ref="char:EOLunhyphen"/>miſed next to tell you of.</p>
             </div>
             <div n="5" type="section">
-               <pb n="27" facs="tcp:010142_0013_0F7D1C54D3579960"/>
+               <pb n="27" facs="unknown:010142_0013_0F7D1C54D3579960"/>
                <head>SECTION V.</head>
                <argument>
                   <p>A very pretty Story of a dear little Child, who loved her Saviour; in which you are told, how good ſhe was, how holy and happy ſhe lived, and how comfortably ſhe died.</p>
@@ -583,7 +585,7 @@ affected with the Love of Jeſus, in dying for their Sins, which I have been tel
                <p>
                   <hi>O my dear and only Saviour, my Lord and my God; what Care doſt thou take of thy dear little Child? Lord, I thank thee for all thy Love, and for all thy Goodneſs to me Dear Jeſus give me to know more and more of thy Love! O ſhed thy
 <pb n="28"
-                         facs="tcp:010142_0014_0F7D1C556AC92BB8"
+                         facs="unknown:010142_0014_0F7D1C556AC92BB8"
                          rendition="simple:additions"/>
 Love abroad in my Heart! O be my Saviour! Save me this Day from my own naughty wicked Heart. Save me from this evil World. Dear Saviour, ſave me from my great Enemy the Devil. O that I may bate Sin, and love and ſerve thee all my Days, till Death comes; and then dear Jeſus, after I have thus come unto thee, and loved thee on Earth, O take my Soul up to thy Self in Glory, to praiſe thee for ever and ever.</hi>
                </p>
@@ -591,7 +593,7 @@ Love abroad in my Heart! O be my Saviour! Save me this Day from my own naughty w
                <p>O how glad was he when the Lord's Day came that ſhe might go and pray with God's People, and hear God's Miniſters preach about Jeſus Chriſt, and his Love to poor Sinners! Whenever ſhe ſaw any poor People in the Streets, that wanted Victuals and Cloaths, her Heart pitied them; and ſhe was glad if ſhe had any Thing to give them.</p>
                <p>She was very dutiful to her Parents, very lov<g ref="char:EOLhyphen"/>ing to all her Brothers and Siſters; yea, ſhe lived in Love with every Body.</p>
                <p>Thus ſhe lived happy, for ſhe knew her Savi<g ref="char:EOLhyphen"/>our loved her; ſhe knew he died for her Sins; ſhe knew ſhe was God almighty's Child, and that he had forgiven all her Sins; for he had given her to know this by his bleſſed Spirit
-<pb n="29" facs="tcp:010142_0014_0F7D1C556AC92BB8"/>
+<pb n="29" facs="unknown:010142_0014_0F7D1C556AC92BB8"/>
 in her Heart, which made her hate Sin, and fear to offend God.</p>
                <p>But O when ſhe was ſick, and when ſhe came to die, had you, dear Children, ſeen how ſweet ſhe looked, how ſhe ſmiled, and was glad to think ſhe was going to die, that ſhe might go to her dear Saviour, and live with him for ever and ever.</p>
                <p>O I think you would have wiſhed to have been in her Place! Juſt before Death cloſed her dear eyes, never, never to open them in this World any more, ſhe called her Papa &amp; Mama to her Bedſide, and ſaid' "Don't you, pray don't you cry, nor grieve your ſelves for me; I am only going a little before you: My dear Saviour loves me; I know he does: I feel he does. I ſhall ſoon be with him; he will ſoon take my dear Soul to himſelf in Glory."</p>
@@ -603,7 +605,7 @@ in her Heart, which made her hate Sin, and fear to offend God.</p>
                      <desc>•</desc>
                   </gap>ell aſleep in the arms of her dear Saviour.</p>
                <p>
-                  <pb n="30" facs="tcp:010142_0015_0F7D1C566537B5C0"/>O now would you not deſire to live and di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="30" facs="unknown:010142_0015_0F7D1C566537B5C0"/>O now would you not deſire to live and di<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> like her? Why, if you do, the ſame Jeſus that loved her, and gave her his Grace, and his Bleſ<g ref="char:EOLhyphen"/>ſing, will alſo give it you, and to all that come unto him.</p>
             </div>
@@ -615,7 +617,7 @@ in her Heart, which made her hate Sin, and fear to offend God.</p>
                <p>FRom what I have before told you, you learnt That you are all Sinners, That you was born into a naughty World, with a wicked Heart within you, and an unholy Nature about you<g ref="char:punc">▪</g> ſo that you have no Goodneſs, no Righteouſ<g ref="char:EOLhyphen"/>neſs, no Strength in your ſelves; and therefore you are always in danger of being led into Sin and Wickedneſs by the Devil, who is your Ene<g ref="char:EOLhyphen"/>my. He is a wicked Spirit, and he tries by all Means to tempt dear Children to commit Sin to take God's Name in vain, to hate one ano<g ref="char:EOLhyphen"/>ther, to tell lies, to break God's Sabbath? yea every Thing that God would not have you to do he will tempt you to do. So that you are told by God's Apoſtle, 1 <hi>Peter, chap. ver.</hi> 8 <hi>That your Adverſary, the Devil, as a roaring Lion walketh about, ſeeking whom he may devour.</hi>
                </p>
                <p>
-                  <pb n="31" facs="tcp:010142_0015_0F7D1C566537B5C0"/>And, above all Things, he will try to hinder you from coming to Jeſus Chriſt: So that if he but make you love your Play, and love Sin, ſo much as to keep you from going to Jeſus Chriſt, then he is ſure to keep you ſure in his Service, and his Child all your Life long; and when you come to die, he will ſeize on you, and drag your dear, your precious Souls, down to his place of Torment, where is nothing but Hor<g ref="char:EOLhyphen"/>ror, and pain, and Miſery, forever and ever.</p>
+                  <pb n="31" facs="unknown:010142_0015_0F7D1C566537B5C0"/>And, above all Things, he will try to hinder you from coming to Jeſus Chriſt: So that if he but make you love your Play, and love Sin, ſo much as to keep you from going to Jeſus Chriſt, then he is ſure to keep you ſure in his Service, and his Child all your Life long; and when you come to die, he will ſeize on you, and drag your dear, your precious Souls, down to his place of Torment, where is nothing but Hor<g ref="char:EOLhyphen"/>ror, and pain, and Miſery, forever and ever.</p>
                <p>O then don't you ſee, dear Children your Danger? Don't you ſee the Need there is for you to go to Jeſus Chriſt, who is the only Saviour for dear Children, who are poor, helpleſs Sin<g ref="char:EOLhyphen"/>ners? O if you have any Deſire to be ſaved, and love for your dear your precious Souls, if you would be holy &amp; happy; if you want to be God Almighty's Children, and wiſh to die in Peace, and go and live with your Saviour in Heaven; ſurely, ſurely, you will, dear Children, go to Jeſus Chriſt now, while you are up<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n Earth, you will call upon him, and pray to Jeſus Chriſt after this Manner.</p>
@@ -626,7 +628,7 @@ in her Heart, which made her hate Sin, and fear to offend God.</p>
                            <head>A Prayer for little Children to get by Heart, and uſe often.</head>
                            <p>SAve me, Lord Jeſus, ſave me that I periſh not! Lamb of God hear me! Son of God have Mercy upon me! Thou haſt bid little Chil<g ref="char:EOLhyphen"/>dren come unto thee, O dear Saviour, let nothing
 <pb n="32"
-                                  facs="tcp:010142_0016_0F7D1C56F42A10A0"
+                                  facs="unknown:010142_0016_0F7D1C56F42A10A0"
                                   rendition="simple:additions"/>
 hinder me from coming unto thee. I would come to thee, Lord help me! I would believe on thee as my Saviour, pray give me Faith, pray give me Love, pray ſave me. I have no Saviour but thee to go to. O deliver me from my ſinful State, ſave me from the World, and the Devil, that I may love and ſerve thee on Earth, and live with, and praiſe thee for ever and ever in Heaven.</p>
                         </div>
@@ -645,7 +647,7 @@ hinder me from coming unto thee. I would come to thee, Lord help me! I would bel
                <p>Y<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>U know I told you before, you had loſt God's Love and Favour, by looſing his Image &amp; Likeneſs, &amp; that therefore you are all of you become unfit to live with God, becauſe you are unlike him, ſtript of your Robe of In<g ref="char:EOLhyphen"/>nocence,
-<pb n="33" facs="tcp:010142_0016_0F7D1C56F42A10A0"/>
+<pb n="33" facs="unknown:010142_0016_0F7D1C56F42A10A0"/>
 and not having the beautiful Dreſs of Holineſs, Righteouſneſs, and Goodneſs; but now Jeſus Chriſt is a Saviour to all thoſe dear Children, that come unto him.</p>
                <p>O I know a great many dear Children that were once very naughty, wicked Sinners, &amp; had nothing but Rags, filthy Rags to cover themſelves with, &amp; to hide their Nakedneſs from the Sight of God; and as ſoon as they ſaw and knew their Poverty, and their Nakedneſs, O they went to our dear Saviour, and prayed to him, and con<g ref="char:EOLhyphen"/>feſſed their Wants, and he gave them a Change of Raiment; he took away their Rags, &amp; gave them the beautiful Dreſs, and ſpotleſs Robe of his perfect Righteouſneſs; and as ſoon as ever they were thus cloathed with the Garment of their elder Brother's Righteouſneſs, then God looked upon them, then God owned them as his Children.</p>
                <p>O what a Comfort is this! Would you not, dear Children, think it a very great Thing to be the Children of an earthly King. O but how much greater is it to be Sons &amp; Daughters of the King of Kings, the Lord God Almighty! What, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -653,11 +655,11 @@ and not having the beautiful Dreſs of Holineſs, Righteouſneſs, and Goodneſs
                   </gap>o have God for your Father, to take you and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>wn you, &amp; love you as his own dear Children! O ſurely, this is the greateſt of all Bleſſings in<g ref="char:EOLhyphen"/>deed! What! Children that are born Children of Wrath, deſerving God's Anger and Puniſh<g ref="char:EOLhyphen"/>ment, to be taken into God's Love and Favour;
-<pb n="34" facs="tcp:010142_0017_0F7D1C57B1CF30B0"/>
+<pb n="34" facs="unknown:010142_0017_0F7D1C57B1CF30B0"/>
 to be owned and loved by him as his dear Chil<g ref="char:EOLhyphen"/>dren! O tell me, is not this enough to encou<g ref="char:EOLhyphen"/>rage you gladly to come unto Jeſus Chriſt? O it is our dear Saviour that obtained this Bleſſing for all his dear Children! tho' they were Ene<g ref="char:EOLhyphen"/>mies and Strangers to God, yet by his Blood he hath reconciled, and made Peace, and brought them back to God, ſo that they receive a New Birth; they are born again of the Spirit of God and become the Children of God by Faith in Chriſt Jeſus.</p>
                <p>Indeed, dear Children, without this New Birth, without being made the Children of God, your Saviour himſelf aſſures, <hi>You cannot enter into the Kingdom of Heaven,</hi> Joh. <hi>Chap.</hi> 3. <hi>Ye muſt be born again,</hi> ſaith our Saviour.</p>
                <p>O, I pray you, conſider the many and great Bleſſings and Comforts that are yours, if you are the Children of God, by Faith in Chriſt Jeſus; why God tells you, by the Mouth of his be<g ref="char:EOLhyphen"/>loved Apoſtle, <hi>All Thing are yours.</hi> God is yours; he is your heavenly Father. Chriſt is yours; he is your loving Brother and Saviour. The Holy Ghoſt is yours; to comfort and make you holy. Heaven is yours; the Place ſo your everlaſting Happineſs and Joy. And till you get to Glory the Earth is yours. All Things that you want, that are for your good, your heavenly Father will give you. So ſaith our Saviour. <hi>Seek firſt the Kingdom of God and his Righteouſneſs, and all
-<pb n="35" facs="tcp:010142_0017_0F7D1C57B1CF30B0"/>
+<pb n="35" facs="unknown:010142_0017_0F7D1C57B1CF30B0"/>
 other Things ſhall be given unto you, Mat.</hi> 6.33.</p>
                <p>O dear how rich, how vaſtly rich are God's Children; the richeſt King upon Earth is not half ſo rich as they are. O this is to be truly rich, truly great and noble indeed! Theſe are the <hi>true Riches,</hi> which our Saviour bids all his dear Children covet and pray for: For indeed without this Kind of Riches, the richeſt Man upon Earth is as poor as a Beggar, and as miſe<g ref="char:EOLhyphen"/>rable as a Slave.</p>
                <p>For if any one, be he who he will, Rich or Poor, Young or Old Man, or Woman, or Child, <hi>If any one hath not the Spirit of Chriſt,</hi> in his Heart, <hi>be is none of his,</hi> ſaith the Word of Truth, <hi>Rom. Chap.</hi> 8. <hi>ver.</hi> 19. he doth not belong to Chriſt, nor doth God own him as his Child. O then, with<g ref="char:EOLhyphen"/>out Doubt, they are the Children of the Wicked One; they are led by his Spirit, his Servants and Children they are. For ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -667,7 +669,7 @@ other Things ſhall be given unto you, Mat.</hi> 6.33.</p>
                <p>Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> it is not ſo with God's Children; for their Jeſus delivers them out of their fallen ſinful State and brings them into a new State of Holineſs.
-<pb n="36" facs="tcp:010142_0018_0F7D1C58734774E8"/>
+<pb n="36" facs="unknown:010142_0018_0F7D1C58734774E8"/>
 Chriſt unites them to himſelf by Faith. and he ſends his Holy Spirit into their Hearts.</p>
                <p>Yes, you may be ſure of this, for Gods Word which is the Word of Truth, tells you ſo in Gal. 4.6. <hi>Becauſe we are Children of God, God hath ſent forth his Spirit into our Hearts, whereby we call God Father,</hi> Our Father. <hi>His Spirit bears Witneſs with our Spirits that we are the Children of God.</hi>
                </p>
@@ -677,7 +679,7 @@ Chriſt unites them to himſelf by Faith. and he ſends his Holy Spirit into the
                <p>So that if o her Children beaſt and brag what fine Cloaths they have got, how very rich their Fathers are, what grand Houſes they live in, and how much Pleaſure they take, and what fine Sights they ſee; O do you be glad, do you be delighted and rejoice every Day to read in your Bibles, what Treaſures, what vaſt &amp; never fad<g ref="char:EOLhyphen"/>ing Treaſures of heavenly Riches are yours.</p>
                <p>
                   <pb n="37"
-                      facs="tcp:010142_0018_0F7D1C58734774E8"
+                      facs="unknown:010142_0018_0F7D1C58734774E8"
                       rendition="simple:additions"/>O the dear Children of God are all Heirs or a Kingdom. Shortly they ſhall wear Crown of pure Gold upon their Hearts, and ſtand be<g ref="char:EOLhyphen"/>fore God, their Father, in long white Robes in that <hi>glorious Gity, which is of pure Gold,</hi> (Rev. chap. 21. ver. 18. &amp; 21.) <hi>and where all the Street are of pure Gold.</hi>
                </p>
                <p>For yet a little while, <hi>and the Day of the Lord ſhall come, in the which the Heaven ſhall paſs away with a great Noiſe, and the Elements ſhall melt with fervent Heat, and the Earth alſo, and all the Works that are therein ſhall be burnt up.</hi>
@@ -693,7 +695,7 @@ Chriſt unites them to himſelf by Faith. and he ſends his Holy Spirit into the
                   </gap>l own them, and will embrace hem, and fill their happy Souls as full of hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="38" facs="tcp:010142_0019_0F7D1C596CAD0300"/>
+                  <pb n="38" facs="unknown:010142_0019_0F7D1C596CAD0300"/>
 Love and glory, and comfort as ever they can h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ld. He will take them up unto himſelf, and they ſhall live and praiſe, and reign wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
